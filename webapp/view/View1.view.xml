@@ -1,0 +1,9 @@
+<mvc:View controllerName="test45.controller.View1"
+    xmlns:mvc="sap.ui.core.mvc" displayBlock="true"
+    xmlns="sap.m">
+    <Page id="page" title="{i18n>title}">
+        <content>
+        <Title text="first github"/>
+        </content>
+    </Page>
+</mvc:View>
