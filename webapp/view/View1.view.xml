@@ -3,7 +3,7 @@
     xmlns="sap.m">
     <Page id="page" title="{i18n>title}">
         <content>
-        <Title text="first github"/>
+        <Title text="firsst github"/>
         </content>
     </Page>
 </mvc:View>
